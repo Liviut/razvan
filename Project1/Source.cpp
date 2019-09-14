@@ -17,6 +17,6 @@ int main()
 	car drag(2,3);
 	cout << drag.brand;
 	cout << drag.model;
-	cout << "penise";
+	cout << "penis";
 	return 0;
 }
